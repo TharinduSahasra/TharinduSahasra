@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Tharindu Senevirathne,And i Computer Scienece Undergraduate.
+
+  
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
 <!--
 **TharinduSahasra/TharinduSahasra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
