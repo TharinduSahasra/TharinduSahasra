@@ -4,31 +4,31 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tharindu+Sahasra!;" />
 </h1>
 
-<h3 align="center">Computer Science Undergradute 
-Undergraduate </h3>
+<h3 align="center">Computer Science Undergradute </h3>
 
 <br/>
 
-<div align="center">
- 
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+- 🧑‍🎓 I’m an Undergraduate at the University Of Kelaniya Sri Lanka
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+- 💬 Ask me about **Java**
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/tharindu-senevirathne-63540b246/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
- 
-</div>
+- 📫 How to reach me **sahasrasenevirathne@gmail.com**
+  
+- ⚡ Fun fact **Call me Kitty**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  </td>
+</tr>
+</table>
 
  <hr/>
  
@@ -42,26 +42,23 @@ Undergraduate </h3>
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TharinduSahasra/TharinduSahasra/output/github-contribution-grid-snake.svg" />
+ <h3 align="center">MY STATISTICS</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
   
-  <br/><br/><br/>
-</div>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TharinduSahasra&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TharinduSahasra&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-TharinduSahasra.vercel.app/?user=TharinduSahasra&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-TharinduSahasra.vercel.app/api?username=TharinduSahasra&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-TharinduSahasra.vercel.app/api/top-langs/?username=TharinduSahasra&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TharinduSahasra&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 <hr/>
 
